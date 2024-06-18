@@ -11,11 +11,10 @@ appearance:
 # SEO
 marketing:
   seo:
-    site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo landing page theme powered by Hugo Blox website builder.'
-    twitter: 'GetResearchDev'
+    site_type: Business
+    local_business_type: 'Science, Technology, Engineering'
+    org_name: 'neonowl systems'
+    description: 'neonowlBusinessSystems (noBS)'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -36,7 +35,7 @@ header:
     logo:
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "logo.svg"
+      filename: "logo.gif"
     button:
       enable: true
       text: "Get Started"
