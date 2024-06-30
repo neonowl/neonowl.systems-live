@@ -10,14 +10,14 @@ design:
 sections:
   - block: hero
     content:
-      title: neonowl.systems
-      text: neon owl business systems (n.o.b.s.)
+      title: systems thinkers wanted
+      text: neonowlBusinessSystems (noBS)
       primary_action:
-        text: Join Discord
+        text: Join neonowl on Discord
         url: https://discord.gg/udnsdPGNxE
         icon: rocket-launch
         announcement:
-          text: "Another"
+          text: "A"
           link:
             text: "neonowl.website"
             url: "https://www.neonowl.website"
@@ -33,5 +33,5 @@ sections:
           # Add your image background to `assets/media/`.
           filename: bg-neonowl.jpg
           filters:
-            brightness: 0.2
+            brightness: 0.3
 ---
