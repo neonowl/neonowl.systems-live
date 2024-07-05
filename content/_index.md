@@ -10,17 +10,12 @@ design:
 sections:
   - block: hero
     content:
-      title: systems thinkers wanted
-      text: neonowlBusinessSystems (noBS)
+      title: neonowl Business Systems (noBS)
+      text: creative systems thinking as a service
       primary_action:
-        text: Join neonowl on Discord
-        url: https://discord.gg/udnsdPGNxE
+        text: View
+        url: /#services
         icon: rocket-launch
-        announcement:
-          text: "A"
-          link:
-            text: "neonowl.website"
-            url: "https://www.neonowl.website"
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -34,4 +29,14 @@ sections:
           filename: bg-neonowl.jpg
           filters:
             brightness: 0.3
+  - block: markdown
+    id: services
+    content:
+      title: Services
+      subtitle: Currently being offered
+      text: >-
+        Private Screening Booking System <br /><br />
+        <a href="/host-a-private-screening">Eastside Cinema; 1156 Hargrave Street</a>
+    design:
+      columns: 1
 ---

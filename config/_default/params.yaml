@@ -13,14 +13,10 @@ marketing:
   seo:
     site_type: Business
     local_business_type: 'Science, Technology, Engineering'
-    org_name: 'neonowl systems'
-    description: 'neonowlBusinessSystems (noBS)'
+    org_name: 'neonowl.systems'
+    description: 'neonowl Business Systems (noBS)'
   analytics:
     google_analytics: ''
-    baidu_tongji: ''
-    plausible: ''
-    fathom: ''
-    pirsch: ''
   verification:
     google: ''
     baidu: ''
@@ -38,15 +34,15 @@ header:
       filename: "logo.gif"
     button:
       enable: true
-      text: "Get Started"
-      url: "https://hugoblox.com/templates/"
+      text: "Contact Us"
+      url: "https://www.neonowl.net/#contact"
     show_search: true
     show_theme_chooser: true
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} My Company'
+    notice: '© {year} neonowl.systems'
 
 # Localization
 locale:
