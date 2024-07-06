@@ -16,7 +16,7 @@ marketing:
     org_name: 'neonowl.systems'
     description: 'neonowl Business Systems (noBS)'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-95HKQZHSCS'
   verification:
     google: ''
     baidu: ''
