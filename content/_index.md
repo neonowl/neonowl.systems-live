@@ -13,8 +13,8 @@ sections:
       title: neonowl Business Systems (noBS)
       text: creative systems thinking as a service
       primary_action:
-        text: View
-        url: /#services
+        text: View Program
+        url: /#program
         icon: rocket-launch
     design:
       spacing:
@@ -29,14 +29,23 @@ sections:
           filename: bg-neonowl.jpg
           filters:
             brightness: 0.3
-  - block: markdown
-    id: services
+  - block: cta-image-paragraph
+    id: program
     content:
-      title: Services
-      subtitle: Currently being offered
-      text: >-
-        Private Screening Booking System <br /><br />
-        <a href="/host-a-private-screening">Eastside Cinema; 1156 Hargrave Street</a>
-    design:
-      columns: 1
+      items:
+        - title: Host a Private Screening
+          text: Book the Eastside Cinema for your Private Screening or Event
+          feature_icon: check
+          features:
+            - Our cinema is YOUR CINEMA!
+            - We have an option for everyone!
+            - Nonprofit Organizations--$100 discount
+          # Upload image to `assets/media/` and reference the filename here
+          image: build-website.png
+          button:
+            text: Book Now!
+            url: /eastside-cinema-private-rental-request
+      design:
+      # Section background color (CSS class)
+      css_class: "bg-gray-100 dark:bg-gray-900"
 ---
