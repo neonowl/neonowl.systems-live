@@ -1,3 +1,3 @@
-# [Hugo Landing Page Theme](https://github.com/HugoBlox/theme-landing-page)
+# neonOwl.website - Landing Page Template
 
-## NeonOwl Website Landing Page
+## Source: [Hugo Landing Page Theme](https://github.com/HugoBlox/theme-landing-page)
