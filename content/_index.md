@@ -10,12 +10,8 @@ design:
 sections:
   - block: hero
     content:
-      title: neonowl Business Systems (noBS)
-      text: creative systems thinking as a service
-      primary_action:
-        text: View Program
-        url: /#program
-        icon: rocket-launch
+      title: neonowl.systems
+      text: micro-enterprise design services
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -33,18 +29,18 @@ sections:
     id: program
     content:
       items:
-        - title: Host a Private Screening
-          text: Book the Eastside Cinema for your Private Screening or Event
+        - title: Custom System Lifecycle
+          text: Jeremy C. Van Doren, Systems Engineer for Hire
           feature_icon: check
           features:
-            - Our cinema is YOUR CINEMA!
-            - We have an option for everyone!
-            - Nonprofit Organizations--$100 discount
+            - design
+            - development
+            - deployment
           # Upload image to `assets/media/` and reference the filename here
           image: build-website.png
           button:
-            text: Book Now!
-            url: /eastside-cinema-private-rental-request
+            text: Book a call
+            url:
       design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
