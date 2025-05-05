@@ -10,8 +10,8 @@ design:
 sections:
   - block: hero
     content:
-      title: neonowl.systems agency
-      text: micro-enterprise design services
+      title: neonowl.systems agency - micro-enterprise design services
+      text: transparent, accessible design and development of engineered systems for individuals and small organizations
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -30,12 +30,12 @@ sections:
     content:
       items:
         - title: In Development
-          text: Niche Marketing System
+          text: Free, Open Source systems for Creative Enterprises
           feature_icon: check
           features:
-            - design
-            - development
-            - deployment
+            - creative writing system
+            - niche marketing system
+            - web publishing system
           # Upload image to `assets/media/` and reference the filename here
           image: build-website.png
           button:
