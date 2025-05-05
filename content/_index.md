@@ -10,7 +10,7 @@ design:
 sections:
   - block: hero
     content:
-      title: neonowl.systems
+      title: neonowl.systems agency
       text: micro-enterprise design services
     design:
       spacing:
@@ -29,8 +29,8 @@ sections:
     id: program
     content:
       items:
-        - title: Custom System Lifecycle
-          text: Jeremy C. Van Doren, Systems Engineer for Hire
+        - title: In Development
+          text: Niche Marketing System
           feature_icon: check
           features:
             - design
@@ -39,7 +39,7 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: build-website.png
           button:
-            text: Book a call
+            text: Coming Soon
             url:
       design:
       # Section background color (CSS class)
